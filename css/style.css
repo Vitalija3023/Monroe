@@ -27,6 +27,35 @@ nav{
    
 }
 
+.header{
+   padding-top: 30px;
+}
+
+.link-1{
+   text-align: center;
+   max-width: 500p;
+   background: url('../img/fe_arrow-left.svg')left  no-repeat;
+   padding: 0 40px 0 40px;
+   margin: 50px 80px 0 0;
+   text-transform: uppercase;
+   text-shadow: 10px 10px 20px #403dfd;
+   color: #ffffff;
+   font-size: 16px;
+   
+}
+
+.link-2{
+   text-align: center;
+   max-width: 500px;
+   background: url('../img/fe_arrow-left.svg')left  no-repeat;
+   padding: 0 40px 0 40px;
+   margin: 50px 80px 0 0;
+   text-transform: uppercase;
+   text-shadow: 10px 10px 20px #403dfd;
+   color: #ffffff;
+   font-size: 16px;
+}
+
 .block-1{
    text-align: center;
    font-size: 42px;
@@ -137,5 +166,13 @@ nav{
 .block-8-text p{
    margin: 0 0 10px 0;
    padding: 0 0 0 100px;
+}
+
+.footer{
+   font-size: 30px;
+   font-weight: 900;
+   color: #424551;
+   text-shadow: 10px 10px 20px #403dfd83;
+   margin: 100px 0 0 0;
 }
 
